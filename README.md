@@ -1,0 +1,2 @@
+# satranc-oyun
+satranç 
